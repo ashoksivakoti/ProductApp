@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProductApp/static/css/main.46a08aa4.css",
+    "main.js": "/ProductApp/static/js/main.2a3f0555.js",
+    "static/media/Roboto-Regular.ttf": "/ProductApp/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/display.png": "/ProductApp/static/media/display.1097178df3957594d505.png",
+    "static/media/DMSans-Regular.ttf": "/ProductApp/static/media/DMSans-Regular.aae18ae4c7505bc987ab.ttf",
+    "index.html": "/ProductApp/index.html",
+    "main.46a08aa4.css.map": "/ProductApp/static/css/main.46a08aa4.css.map",
+    "main.2a3f0555.js.map": "/ProductApp/static/js/main.2a3f0555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a08aa4.css",
+    "static/js/main.2a3f0555.js"
+  ]
+}
